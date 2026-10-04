@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tạo Website Không Cần Biết Code 2",
+  "description": "Landing Page quảng bá và nhận đăng ký khóa học Tạo Website Không Cần Biết Code dành cho giáo viên Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
